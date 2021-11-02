@@ -8,12 +8,13 @@ a{
     color: white
 }
 h1{
-    background-color: #87c440;
-    color:white;
+    background-color: #87c44025;
+    color:#10783d;
     display:inline-block;
     padding:5px;
     font-family: Arial,sans-serif;
     font-weight:100;
+    border-bottom: 1px solid #da1e47;
 }
 h2{
     margin: 40px 0 0 0;
@@ -34,7 +35,7 @@ li{
     width:200px;
     margin:5px;
     padding: 10px;
-    border-radius: 25px;
+    border-radius: 25px;border:3px solid 
     font-size: 25px;
 }
 .home{
