@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    width:80%;
+    width:60%;
     margin: 50px auto;;
 }
 a{
@@ -9,7 +9,6 @@ a{
 }
 h1{
     border:3px solid #87c440;
-    width:60%;
     display:inline-block;
     font-size: 50px;
 }
@@ -20,6 +19,9 @@ ul{
     list-style-type: none;
     margin:0;
     display:inline-block;
+}
+ol{
+    display: inline-block;;
 }
 li{
     margin:10px;
@@ -72,4 +74,5 @@ li{
 }
 #steps{
     text-align: left;
+   
 }
