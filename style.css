@@ -8,8 +8,12 @@ a{
     color: white
 }
 h1{
-    border:3px solid #87c440;
+    background-color: #87c440;
+    color:white;
     display:inline-block;
+    padding:5px;
+    font-family: Arial,sans-serif;
+    font-weight:100;
 }
 h2{
     margin: 40px 0 0 0;
