@@ -1,0 +1,75 @@
+body{
+    text-align: center;
+    width:60%;
+    margin: 50px auto;;
+}
+a{
+    text-decoration: none;
+    color: white
+}
+h1{
+    border:3px solid #87c440;
+    width:60%;
+    display:inline-block;
+    font-size: 50px;
+}
+h2{
+    margin: 40px 0 0 0;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    display:inline-block;
+}
+li{
+    margin:10px;
+}
+
+.btn{
+    width:200px;
+    margin:5px;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 25px;
+}
+.home{
+    color:#87c440;
+    border:2px solid #10783d;
+}
+.home:hover{
+    color:#10783d;
+    border:2px solid #87c440;
+}
+.cutting{
+    background-color: #da1e47;
+    border:2px solid white;
+}
+.cutting:hover{
+    background-color: white;
+    color:#da1e47;
+    border:2px solid #da1e47;
+}
+.maintenance{
+    background-color: #87c440;
+    border:2px solid white;
+}
+.maintenance:hover{
+    background-color: white;
+    color:#87c440;
+    border:2px solid #87c440;
+}
+.bulking{
+    background-color: #10783d;
+    border:2px solid white;
+}
+.bulking:hover{
+    background-color: white;
+    color:#10783d;
+    border: 2px solid #10783d;
+}
+#ingredients{
+    text-align: left;
+}
+#steps{
+    text-align: left;
+}
